@@ -1,3 +1,10 @@
+The following files are under the [MIT License](https://github.com/rdagger/micropython-ili9341/blob/master/LICENSE):
+- `board/ili9341.py`
+- `board/img2rgb565.py`
+- `board/xglcd_font.py`
+
+The remainder of this repository is under the [GPLv3](LICENSE).
+
 # Overview
 
 This project is designed to allow flight simulator users to turn an ESP32 development board and an ILI9341 LCD into a live display to either aid their flights or just look great on their desk. Most functionality requires the included FastAPI server to be running on the same local network as the ESP32.
